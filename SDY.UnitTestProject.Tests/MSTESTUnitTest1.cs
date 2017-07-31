@@ -77,8 +77,6 @@ namespace SDY.UnitTestProject.TestsMSTestV2
             PlassGun gun = new PlassGun();
 
             gun.FireAt(bug);
-            gun.FireAt(bug);
-            gun.FireAt(bug);
 
             Assert.IsTrue(bug.IsDead());
             Assert.IsTrue(gun.HasAmmo());
