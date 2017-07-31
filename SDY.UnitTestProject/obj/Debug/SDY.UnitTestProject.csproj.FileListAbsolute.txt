@@ -5,12 +5,12 @@ C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitT
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Rocks.dll
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.exe.config
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.exe
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.pdb
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\nunit.framework.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\nunit.framework.xml
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\obj\Debug\SDY.UnitTestProject.exe
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\obj\Debug\SDY.UnitTestProject.pdb
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\obj\Debug\SDY.UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.dll.config
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.dll
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\obj\Debug\SDY.UnitTestProject.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.UnitTestProject\obj\Debug\SDY.UnitTestProject.csproj.CoreCompileInputs.cache

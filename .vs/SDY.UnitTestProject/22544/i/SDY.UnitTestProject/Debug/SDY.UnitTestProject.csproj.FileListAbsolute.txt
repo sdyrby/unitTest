@@ -5,8 +5,8 @@ C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.U
 C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\Mono.Cecil.Rocks.dll
-C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.exe.config
-C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.exe
 C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.pdb
-C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\i\SDY.UnitTestProject\Debug\SDY.UnitTestProject.exe
 C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\i\SDY.UnitTestProject\Debug\SDY.UnitTestProject.pdb
+C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.dll.config
+C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\b\SDY.UnitTestProject\bin\Debug\SDY.UnitTestProject.dll
+C:\Users\sdy\documents\visual studio 2017\Projects\SDY.UnitTestProject\.vs\SDY.UnitTestProject\22544\i\SDY.UnitTestProject\Debug\SDY.UnitTestProject.dll

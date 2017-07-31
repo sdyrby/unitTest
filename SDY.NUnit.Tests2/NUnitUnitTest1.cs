@@ -1,5 +1,4 @@
 ﻿using NUnit.Framework;
-using SDY.UnitTestProject;
 
 namespace SDY.UnitTestProject.TestsNUnit3
 {
@@ -13,7 +12,7 @@ namespace SDY.UnitTestProject.TestsNUnit3
             gun = new PlassGun();
         }
 
-       [TearDown]
+        [TearDown]
         public void Cleanup()
         {
             PlassGun gun = new PlassGun();
@@ -69,7 +68,6 @@ namespace SDY.UnitTestProject.TestsNUnit3
             }
         }
 
-   
         [Test]
         public void NUnit_TryShootBug()
         {
