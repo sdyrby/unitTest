@@ -8,11 +8,10 @@ C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.NUnit.Tests2.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.NUnit.Tests2.pdb
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\nunit.framework.dll
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.UnitTestProject.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.UnitTestProject.pdb
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.UnitTestProject.dll.config
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\nunit.framework.xml
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\obj\Debug\SDY.UnitTestProject.Tests[NUnit3].csprojResolveAssemblyReference.cache
+C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\obj\Debug\SDY.UnitTestProject.Tests[NUnit3].csproj.CoreCompileInputs.cache
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\obj\Debug\SDY.NUnit.Tests2.dll
 C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\obj\Debug\SDY.NUnit.Tests2.pdb
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.UnitTestProject.dll
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\bin\Debug\SDY.UnitTestProject.dll.config
-C:\Users\sdy\Documents\Visual Studio 2017\Projects\SDY.UnitTestProject\SDY.NUnit.Tests2\obj\Debug\SDY.UnitTestProject.Tests[NUnit3].csproj.CoreCompileInputs.cache

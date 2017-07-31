@@ -15,7 +15,6 @@
                 else
                 {
                     bug.Hit();
-                    //bug.Miss();
                 }
                 ammo--;
             }
